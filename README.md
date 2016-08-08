@@ -10,7 +10,7 @@ This is the course project for the Getting and Cleaning Data course on Coursera.
 ##Contents
 This repo includes the following elements:
   1. run_analysis.R - R script which completes the course requirements noted above
-  2. Codebook - Decription of the original data set and process used to summarize data into tidy data set
+  2. Codebook.md - Decription of the original data set and process used to summarize data into tidy data set
   3. tidy.txt - The tidy data set which is the output of the run_analysis.R script
   4. README.md - This readme file
   
