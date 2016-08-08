@@ -1,7 +1,7 @@
 
 #Codebook for GACD_Course_Project
 ##Source Data
-The data linked below was collected from the accelerometers from the Samsung Galaxy S smartphone. 
+The data used for this project was collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
